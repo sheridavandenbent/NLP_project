@@ -60,7 +60,7 @@ def evaluate(model, dictionary, data_source, criterion, eval_batch_size):
 
 
 args = parser.parse_args()
-dictionary = pickle.load(open(args.dict, 'rb'))
+dictionary = pickle.load(open(args.dict, 'rb'), encoding='latin1')
 
 with open(args.model, 'rb') as f:
     model = torch.load(f, map_location=lambda storage, loc: storage)
