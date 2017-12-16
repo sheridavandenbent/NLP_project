@@ -1,17 +1,169 @@
-civics 
-is: 0.025189
-are: 0.000075
+either answer 
+is: 0.002065
+are: 0.000199
 target: is
-mathematics 
-is: 0.027131
-are: 0.001349
+few of the children 
+is: 0.000727
+are: 0.023034
+target: are
+some of the money 
+is: 0.003844
+are: 0.000611
 target: is
-for four miles every day he 
-runs: 0.001250
-run: 0.000116
-target: runs
-a number of customers 
-has: 0.000547
-have: 0.008991
+some of the forest 
+has: 0.004061
+have: 0.000306
+target: has
+most of the milk 
+has: 0.000410
+have: 0.000366
+target: has
+few of the apartments 
+is: 0.000252
+are: 0.022202
+target: are
+<unk> 
+<unk>: 0.063318
+<unk>: 0.063318
+target: <unk>
+nobody 
+knows: 0.092078
+know: 0.001211
+target: knows
+your pants 
+is: 0.007402
+are: 0.001246
+target: are
+the committee 
+debates: 0.000001
+debate: 0.000100
+target: debates
+the committee 
+leads: 0.000008
+lead: 0.000004
+target: leads
+none of the marbles 
+has: 0.000805
+have: 0.005852
 target: have
-1.0
+most of the newspaper 
+is: 0.010255
+are: 0.001255
+target: is
+any of those nails 
+is: 0.008450
+are: 0.003752
+target: are
+the girl 
+reads: 0.000069
+read: 0.000019
+target: reads
+the girls 
+reads: 0.000005
+read: 0.000038
+target: read
+<unk> 
+is: 0.002708
+are: 0.001375
+target: is
+the <unk> committee 
+is: 0.006076
+are: 0.000884
+target: is
+the <unk> of the job <unk> 
+is: 0.003786
+are: 0.000980
+target: are
+the rest of the books 
+is: 0.001554
+are: 0.006087
+target: are
+some of the books 
+was: 0.001172
+were: 0.007325
+target: were
+the rest of the map 
+was: 0.001870
+were: 0.000560
+target: was
+some of the water 
+is: 0.016775
+are: 0.001880
+target: is
+all of the cake 
+was: 0.005268
+were: 0.000352
+target: was
+all of the cookies 
+was: 0.001133
+were: 0.002564
+target: were
+all of the guests 
+has: 0.000069
+have: 0.002063
+target: have
+the <unk> of this chapter 
+is: 0.014766
+are: 0.001600
+target: is
+all of the family 
+has: 0.002082
+have: 0.000933
+target: has
+neither of them 
+knows: 0.001915
+know: 0.001305
+target: knows
+whether the price tag 
+is: 0.176052
+are: 0.005330
+target: is
+a lot of the pie 
+has: 0.000347
+have: 0.000278
+target: has
+a lot of the pies 
+has: 0.000037
+have: 0.000241
+target: have
+a third of the city 
+is: 0.002531
+are: 0.000303
+target: is
+a third of the people 
+is: 0.001196
+are: 0.003495
+target: are
+all of the pie 
+is: 0.027827
+are: 0.001546
+target: is
+all of the pies 
+is: 0.001096
+are: 0.002927
+target: are
+some of the pie 
+is: 0.027941
+are: 0.002914
+target: is
+some of the pies 
+is: 0.001784
+are: 0.004875
+target: are
+<unk> <unk> <unk> <unk> <unk> 
+is: 0.004715
+are: 0.000168
+target: is
+at the end of each school <unk> my personal supply of cash 
+is: 0.001429
+are: 0.000113
+target: is
+four annual <unk> 
+has: 0.000126
+have: 0.000793
+target: have
+most of the newly hired product managers 
+has: 0.000149
+have: 0.001549
+target: have
+0.9047619047619048

@@ -1,121 +1,121 @@
-everyone but the manager and two <unk> 
-thinks: 0.000021
-think: 0.000026
-target: thinks
-every one of those books 
-is: 0.019650
-are: 0.001026
+a file in the top drawer of the desk 
+is: 0.001017
+are: 0.000911
 target: is
-<unk> the only one of those <unk> 
-has: 0.000377
-have: 0.000287
-target: has
-everyone except the employees in the shipping department 
-has: 0.000276
-have: 0.001864
-target: has
-only one of the <unk> <unk> 
-was: 0.001018
-were: 0.000453
+everybody at the fourth of <unk> parade 
+was: 0.000081
+were: 0.000036
 target: was
-a long list of <unk> names and addresses 
-has: 0.000009
-have: 0.000089
+the international <unk> as well as the <unk> society and the rowing <unk> 
+needs: 0.000013
+need: 0.000004
+target: needs
+every person on the committee 
+wants: 0.000555
+want: 0.000091
+target: wants
+about the assignment <unk> with its strict <unk> when 
+is: 0.000568
+are: 0.000106
+target: is
+the taxi drivers on the streets of the cities 
+drives: 0.000000
+drive: 0.000002
+target: drive
+the entire <unk> besides the <unk> 
+is: 0.000470
+are: 0.000381
+target: is
+the presence at the ceiling in the room 
+awaits: 0.000001
+<unk>: 0.002875
+target: awaits
+everyone with a cat and a dog 
+rejects: 0.000000
+reject: 0.000000
+target: rejects
+the golf <unk> along with the student association and tennis <unk> 
+has: 0.000160
+have: 0.000436
 target: has
-neither the buyers nor the agent 
-is: 0.001183
-are: 0.000107
-target: is
-the <unk> along with several customer support representatives and other field <unk> 
-was: 0.000079
-were: 0.000523
-target: was
-all the family <unk> as well as clothing and other family <unk> 
-was: 0.000175
-were: 0.000513
-target: were
-the people working with computers and <unk> 
-is: 0.000302
-are: 0.001296
-target: are
-many children that were playing with the clown and the balloons 
-is: 0.000182
-are: 0.000993
-target: are
-the painters <unk> around that painting and that statue 
-is: 0.075771
-are: 0.003118
-target: are
-the crowd that demonstrates against the president and the <unk> 
-is: 0.001045
-are: 0.000817
-target: is
-the leaves of the trees in the forest 
-is: 0.001907
-are: 0.006553
-target: are
-the bushes on your lawn and above your home 
-is: 0.005454
-are: 0.001532
-target: are
-your <unk> <unk> consisting of bacon and <unk> 
-is: 0.000437
-are: 0.001465
-target: is
-back in the old <unk> players like my father and uncle 
-was: 0.002457
-were: 0.001835
-target: were
-every rock on the beach and in the pools 
-is: 0.000727
-are: 0.003026
-target: is
-<unk> the only one of the <unk> 
-is: 0.000889
-are: 0.000352
-target: is
-everyone except the workers of the <unk> 
-works: 0.000028
-work: 0.000165
-target: work
-three million leagues under the sky and sea 
-is: 0.012047
-are: 0.000111
-target: is
-very few of the workers in the department 
-receives: 0.000023
-receive: 0.000025
-target: receive
-only one of the monkeys in the zoo 
-plays: 0.000014
-play: 0.000025
-target: plays
-an item of clothing from those stores 
-sells: 0.000001
-sell: 0.000001
-target: sells
-the <unk> along with her puppies and the <unk> 
-begs: 0.000001
-beg: 0.000002
-target: begs
-the movie with the actor from star wars 
-has: 0.000095
-have: 0.000287
+every candidate at the association 
+contributes: 0.000001
+contribute: 0.000000
+target: contributes
+the waiter at the restaurant one street away 
+has: 0.000037
+have: 0.000063
 target: has
-thousand anonymous people across ten countries in our continent 
-has: 0.000086
-have: 0.000124
+the whole <unk> except some <unk> 
+wants: 0.000008
+want: 0.000018
+target: wants
+global <unk> together with <unk> 
+is: 0.000257
+are: 0.000117
+target: is
+production <unk> together with <unk> and other <unk> 
+needs: 0.000097
+need: 0.000009
+target: need
+those <unk> along with some other locals with <unk> 
+has: 0.000037
+have: 0.000133
 target: have
-one person in the crowd of people 
-walks: 0.000197
-walk: 0.000012
-target: walks
-the batch of pills from the hospital 
-was: 0.000375
-were: 0.000608
-target: was
-one <unk> straight out of the school with all the <unk> 
-tries: 0.000002
-try: 0.000002
-target: tries
-0.5333333333333333
+<unk> <unk> a <unk> of <unk> <unk> but then <unk> 
+makes: 0.000134
+make: 0.000125
+target: makes
+the <unk> full of surprises and evil <unk> 
+fills: 0.000000
+fill: 0.000005
+target: fills
+contracts with companies and clubs 
+is: 0.000047
+are: 0.000191
+target: are
+documentaries full of sad stories and conflicts 
+educates: 0.000001
+educate: 0.000000
+target: educate
+<unk> as well as parents and <unk> 
+helps: 0.000003
+help: 0.000036
+target: help
+prevention of <unk> a paramount <unk> 
+is: 0.001533
+are: 0.000132
+target: is
+division of <unk> normally through the <unk> 
+prevents: 0.000003
+prevent: 0.000003
+target: prevents
+inclusion of your curriculum <unk> and photo 
+is: 0.002243
+are: 0.000891
+target: is
+discussions amongst students with creative minds 
+influences: 0.000000
+influence: 0.000002
+target: influence
+gatherings like that of card game clubs and that of <unk> 
+is: 0.002775
+are: 0.002327
+target: are
+conflicts in <unk> amongst different nationalities 
+occurs: 0.000006
+occur: 0.000022
+target: occur
+<unk> like in <unk> and regular shows 
+is: 0.000281
+are: 0.000187
+target: are
+multiplication of a variable in some code 
+is: 0.003525
+are: 0.000811
+target: is
+calculations within the groups at the universities 
+shows: 0.000002
+show: 0.000011
+target: show
+0.6333333333333333

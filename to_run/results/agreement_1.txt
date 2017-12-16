@@ -1,121 +1,121 @@
-one of my sisters 
-is: 0.003387
-are: 0.000219
-target: is
-one of the nails 
-is: 0.001230
-are: 0.000229
-target: is
-the scissors on the table 
-is: 0.003607
-are: 0.001152
+the school bus in the afternoon 
+rides: 0.000002
+ride: 0.000009
+target: rides
+both of my pencils 
+has: 0.000667
+have: 0.009722
+target: have
+the prime <unk> together with his <unk> 
+greets: 0.000003
+greet: 0.000003
+target: greets
+several of the field hockey players also 
+belongs: 0.000005
+belong: 0.000329
+target: belong
+four years 
+is: 0.000176
+are: 0.000042
 target: are
-a large number of voters still 
-votes: 0.000004
-vote: 0.000093
-target: votes
-to an <unk> the economics of this country 
-seems: 0.000082
-seem: 0.000005
-target: seem
-the man with all the birds 
-lives: 0.000002
-live: 0.000027
-target: lives
-the <unk> with all the <unk> 
-takes: 0.000005
-take: 0.000015
-target: takes
-all of the <unk> even the scratched <unk> 
-is: 0.006413
-are: 0.007649
-target: are
-the <unk> along with the <unk> 
-is: 0.000677
-are: 0.000365
+the whole family 
+is: 0.026012
+are: 0.002058
 target: is
-each of the girl scouts 
-does: 0.000120
-do: 0.000309
-target: does
-one of my best friends 
-is: 0.008795
-are: 0.000760
+some of the <unk> 
+has: 0.000312
+have: 0.002339
+target: have
+some of the money 
+seems: 0.000037
+seem: 0.000008
+target: seems
+most of the people 
+has: 0.000374
+have: 0.002545
+target: have
+most of the information 
+is: 0.015862
+are: 0.000615
 target: is
-the <unk> as well as the <unk> 
-wants: 0.000018
-want: 0.000016
-target: want
-someone at the <unk> 
-<unk>: 0.132695
-groom: 0.000002
+every one of the female <unk> 
+<unk>: 0.013739
+obtain: 0.000001
 target: <unk>
-food between the teeth 
-results: 0.000000
-result: 0.000000
-target: results
-water in the fuel lines 
-causes: 0.000007
-cause: 0.000004
-target: causes
-high levels of mercury 
-occurs: 0.000006
-occur: 0.000020
-target: occur
-the price of five dollars 
-is: 0.001071
-are: 0.000064
+<unk> as well as <unk> 
+is: 0.000778
+are: 0.000683
 target: is
-the news of money market <unk> 
-was: 0.000963
-were: 0.000419
-target: was
-every one of his proposals 
-was: 0.001659
-were: 0.000180
-target: was
-each of the proposals 
-shows: 0.000036
-show: 0.000042
-target: shows
-neither of the printers 
-was: 0.000351
-were: 0.006771
-target: was
-so many kinds of printer models for sale 
-is: 0.000536
-are: 0.001655
-target: are
-each of the word processing specialists 
-has: 0.000991
-have: 0.002653
-target: has
-either of the two <unk> 
-meets: 0.000005
-meet: 0.000017
-target: meets
-one of the ways 
-is: 0.000997
-are: 0.000030
+an employee like <unk> 
+is: 0.002736
+are: 0.000584
 target: is
-computer programmers such as those at <unk> 
-is: 0.000584
-are: 0.001920
-target: are
-the <unk> that were just in the <unk> 
-is: 0.000287
-are: 0.002103
-target: are
-one of the players 
-is: 0.001300
-are: 0.000154
+everyone except <unk> 
+finds: 0.000008
+find: 0.000023
+target: finds
+everyone at the gym 
+exercises: 0.000002
+exercise: 0.000004
+target: exercises
+eight kids 
+plays: 0.000004
+play: 0.000168
+target: play
+both people 
+decides: 0.000004
+decide: 0.000032
+target: decide
+the public transport bus in the morning 
+rides: 0.000004
+ride: 0.000020
+target: rides
+the <unk> as well as the <unk> 
+jumps: 0.000007
+jump: 0.000041
+target: jumps
+the local tour <unk> together with his <unk> 
+walks: 0.000003
+walk: 0.000028
+target: walks
+several of the classes 
+was: 0.000598
+were: 0.016249
+target: were
+the entire class 
+is: 0.004382
+are: 0.000308
 target: is
-the basket filled with <unk> 
-is: 0.000533
-are: 0.000299
+a student like the president 
+is: 0.005424
+are: 0.000419
 target: is
-six gallons of milk 
-is: 0.003658
-are: 0.000694
+the taxi driver at the morning 
+drives: 0.000001
+drive: 0.000006
+target: drives
+six laptops 
+calculates: 0.000001
+calculate: 0.000002
+target: calculate
+the whole thing 
+blows: 0.000002
+blow: 0.000001
+target: blows
+some of our theaters 
+has: 0.000819
+have: 0.020922
+target: have
+most of their water 
+spills: 0.000904
+spill: 0.000056
+target: spills
+every piece of their equipment 
+fails: 0.000002
+fail: 0.000001
+target: fails
+<unk> just like <unk> 
+is: 0.008343
+are: 0.003897
 target: are
-0.5666666666666667
+0.6666666666666666
