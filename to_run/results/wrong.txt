@@ -1,0 +1,208 @@
+your pants 
+is: 0.007402
+are: 0.001246
+target: are
+the committee 
+debates: 0.000001
+debate: 0.000100
+target: debates
+any of those nails 
+is: 0.008450
+are: 0.003752
+target: are
+the <unk> of the job <unk> 
+is: 0.003786
+are: 0.000980
+target: are
+the school bus in the afternoon 
+rides: 0.000002
+ride: 0.000009
+target: rides
+the prime <unk> together with his <unk> 
+greets: 0.000003
+greet: 0.000003
+target: greets
+four years 
+is: 0.000176
+are: 0.000042
+target: are
+everyone except <unk> 
+finds: 0.000008
+find: 0.000023
+target: finds
+everyone at the gym 
+exercises: 0.000002
+exercise: 0.000004
+target: exercises
+the public transport bus in the morning 
+rides: 0.000004
+ride: 0.000020
+target: rides
+the <unk> as well as the <unk> 
+jumps: 0.000007
+jump: 0.000041
+target: jumps
+the local tour <unk> together with his <unk> 
+walks: 0.000003
+walk: 0.000028
+target: walks
+the taxi driver at the morning 
+drives: 0.000001
+drive: 0.000006
+target: drives
+<unk> just like <unk> 
+is: 0.008343
+are: 0.003897
+target: are
+the presence at the ceiling in the room 
+awaits: 0.000001
+<unk>: 0.002875
+target: awaits
+everyone with a cat and a dog 
+rejects: 0.000000
+reject: 0.000000
+target: rejects
+the golf <unk> along with the student association and tennis <unk> 
+has: 0.000160
+have: 0.000436
+target: has
+the waiter at the restaurant one street away 
+has: 0.000037
+have: 0.000063
+target: has
+the whole <unk> except some <unk> 
+wants: 0.000008
+want: 0.000018
+target: wants
+production <unk> together with <unk> and other <unk> 
+needs: 0.000097
+need: 0.000009
+target: need
+the <unk> full of surprises and evil <unk> 
+fills: 0.000000
+fill: 0.000005
+target: fills
+documentaries full of sad stories and conflicts 
+educates: 0.000001
+educate: 0.000000
+target: educate
+division of <unk> normally through the <unk> 
+prevents: 0.000003
+prevent: 0.000003
+target: prevents
+gatherings like that of card game clubs and that of <unk> 
+is: 0.002775
+are: 0.002327
+target: are
+<unk> like in <unk> and regular shows 
+is: 0.000281
+are: 0.000187
+target: are
+the scissors on the table 
+is: 0.003607
+are: 0.001152
+target: are
+a large number of voters still 
+votes: 0.000004
+vote: 0.000093
+target: votes
+to an <unk> the economics of this country 
+seems: 0.000082
+seem: 0.000005
+target: seem
+the man with all the birds 
+lives: 0.000002
+live: 0.000027
+target: lives
+the <unk> with all the <unk> 
+takes: 0.000005
+take: 0.000015
+target: takes
+each of the girl scouts 
+does: 0.000120
+do: 0.000309
+target: does
+the <unk> as well as the <unk> 
+wants: 0.000018
+want: 0.000016
+target: want
+food between the teeth 
+results: 0.000000
+result: 0.000000
+target: results
+each of the proposals 
+shows: 0.000036
+show: 0.000042
+target: shows
+neither of the printers 
+was: 0.000351
+were: 0.006771
+target: was
+each of the word processing specialists 
+has: 0.000991
+have: 0.002653
+target: has
+either of the two <unk> 
+meets: 0.000005
+meet: 0.000017
+target: meets
+six gallons of milk 
+is: 0.003658
+are: 0.000694
+target: are
+everyone but the manager and two <unk> 
+thinks: 0.000021
+think: 0.000026
+target: thinks
+everyone except the employees in the shipping department 
+has: 0.000276
+have: 0.001864
+target: has
+a long list of <unk> names and addresses 
+has: 0.000009
+have: 0.000089
+target: has
+the <unk> along with several customer support representatives and other field <unk> 
+was: 0.000079
+were: 0.000523
+target: was
+the painters <unk> around that painting and that statue 
+is: 0.075771
+are: 0.003118
+target: are
+the bushes on your lawn and above your home 
+is: 0.005454
+are: 0.001532
+target: are
+your <unk> <unk> consisting of bacon and <unk> 
+is: 0.000437
+are: 0.001465
+target: is
+back in the old <unk> players like my father and uncle 
+was: 0.002457
+were: 0.001835
+target: were
+every rock on the beach and in the pools 
+is: 0.000727
+are: 0.003026
+target: is
+only one of the monkeys in the zoo 
+plays: 0.000014
+play: 0.000025
+target: plays
+the <unk> along with her puppies and the <unk> 
+begs: 0.000001
+beg: 0.000002
+target: begs
+the movie with the actor from star wars 
+has: 0.000095
+have: 0.000287
+target: has
+the batch of pills from the hospital 
+was: 0.000375
+were: 0.000608
+target: was
+one <unk> straight out of the school with all the <unk> 
+tries: 0.000002
+try: 0.000002
+target: tries
