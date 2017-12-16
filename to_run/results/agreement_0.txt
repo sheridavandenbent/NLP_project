@@ -1,0 +1,17 @@
+civics 
+is: 0.025189
+are: 0.000075
+target: is
+mathematics 
+is: 0.027131
+are: 0.001349
+target: is
+for four miles every day he 
+runs: 0.001250
+run: 0.000116
+target: runs
+a number of customers 
+has: 0.000547
+have: 0.008991
+target: have
+1.0

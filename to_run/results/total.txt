@@ -1,0 +1,665 @@
+either answer
+is: 0.002065
+are: 0.000199
+target: is
+few of the children
+is: 0.000727
+are: 0.023034
+target: are
+some of the money
+is: 0.003844
+are: 0.000611
+target: is
+some of the forest
+has: 0.004061
+have: 0.000306
+target: has
+most of the milk
+has: 0.000410
+have: 0.000366
+target: has
+few of the apartments
+is: 0.000252
+are: 0.022202
+target: are
+<unk>
+<unk>: 0.063318
+<unk>: 0.063318
+target: <unk>
+nobody
+knows: 0.092078
+know: 0.001211
+target: knows
+your pants
+is: 0.007402
+are: 0.001246
+target: are
+the committee
+debates: 0.000001
+debate: 0.000100
+target: debates
+the committee
+leads: 0.000008
+lead: 0.000004
+target: leads
+none of the marbles
+has: 0.000805
+have: 0.005852
+target: have
+most of the newspaper
+is: 0.010255
+are: 0.001255
+target: is
+any of those nails
+is: 0.008450
+are: 0.003752
+target: are
+the girl
+reads: 0.000069
+read: 0.000019
+target: reads
+the girls
+reads: 0.000005
+read: 0.000038
+target: read
+<unk>
+is: 0.002708
+are: 0.001375
+target: is
+the <unk> committee
+is: 0.006076
+are: 0.000884
+target: is
+the <unk> of the job <unk>
+is: 0.003786
+are: 0.000980
+target: are
+the rest of the books
+is: 0.001554
+are: 0.006087
+target: are
+some of the books
+was: 0.001172
+were: 0.007325
+target: were
+the rest of the map
+was: 0.001870
+were: 0.000560
+target: was
+some of the water
+is: 0.016775
+are: 0.001880
+target: is
+all of the cake
+was: 0.005268
+were: 0.000352
+target: was
+all of the cookies
+was: 0.001133
+were: 0.002564
+target: were
+all of the guests
+has: 0.000069
+have: 0.002063
+target: have
+the <unk> of this chapter
+is: 0.014766
+are: 0.001600
+target: is
+all of the family
+has: 0.002082
+have: 0.000933
+target: has
+neither of them
+knows: 0.001915
+know: 0.001305
+target: knows
+whether the price tag
+is: 0.176052
+are: 0.005330
+target: is
+a lot of the pie
+has: 0.000347
+have: 0.000278
+target: has
+a lot of the pies
+has: 0.000037
+have: 0.000241
+target: have
+a third of the city
+is: 0.002531
+are: 0.000303
+target: is
+a third of the people
+is: 0.001196
+are: 0.003495
+target: are
+all of the pie
+is: 0.027827
+are: 0.001546
+target: is
+all of the pies
+is: 0.001096
+are: 0.002927
+target: are
+some of the pie
+is: 0.027941
+are: 0.002914
+target: is
+some of the pies
+is: 0.001784
+are: 0.004875
+target: are
+<unk> <unk> <unk> <unk> <unk>
+is: 0.004715
+are: 0.000168
+target: is
+at the end of each school <unk> my personal supply of cash
+is: 0.001429
+are: 0.000113
+target: is
+four annual <unk>
+has: 0.000126
+have: 0.000793
+target: have
+most of the newly hired product managers
+has: 0.000149
+have: 0.001549
+target: have
+the school bus in the afternoon
+rides: 0.000002
+ride: 0.000009
+target: rides
+both of my pencils
+has: 0.000667
+have: 0.009722
+target: have
+the prime <unk> together with his <unk>
+greets: 0.000003
+greet: 0.000003
+target: greets
+several of the field hockey players also
+belongs: 0.000005
+belong: 0.000329
+target: belong
+four years
+is: 0.000176
+are: 0.000042
+target: are
+the whole family
+is: 0.026012
+are: 0.002058
+target: is
+some of the <unk>
+has: 0.000312
+have: 0.002339
+target: have
+some of the money
+seems: 0.000037
+seem: 0.000008
+target: seems
+most of the people
+has: 0.000374
+have: 0.002545
+target: have
+most of the information
+is: 0.015862
+are: 0.000615
+target: is
+every one of the female <unk>
+<unk>: 0.013739
+obtain: 0.000001
+target: <unk>
+<unk> as well as <unk>
+is: 0.000778
+are: 0.000683
+target: is
+an employee like <unk>
+is: 0.002736
+are: 0.000584
+target: is
+everyone except <unk>
+finds: 0.000008
+find: 0.000023
+target: finds
+everyone at the gym
+exercises: 0.000002
+exercise: 0.000004
+target: exercises
+eight kids
+plays: 0.000004
+play: 0.000168
+target: play
+both people
+decides: 0.000004
+decide: 0.000032
+target: decide
+the public transport bus in the morning
+rides: 0.000004
+ride: 0.000020
+target: rides
+the <unk> as well as the <unk>
+jumps: 0.000007
+jump: 0.000041
+target: jumps
+the local tour <unk> together with his <unk>
+walks: 0.000003
+walk: 0.000028
+target: walks
+several of the classes
+was: 0.000598
+were: 0.016249
+target: were
+the entire class
+is: 0.004382
+are: 0.000308
+target: is
+a student like the president
+is: 0.005424
+are: 0.000419
+target: is
+the taxi driver at the morning
+drives: 0.000001
+drive: 0.000006
+target: drives
+six laptops
+calculates: 0.000001
+calculate: 0.000002
+target: calculate
+the whole thing
+blows: 0.000002
+blow: 0.000001
+target: blows
+some of our theaters
+has: 0.000819
+have: 0.020922
+target: have
+most of their water
+spills: 0.000904
+spill: 0.000056
+target: spills
+every piece of their equipment
+fails: 0.000002
+fail: 0.000001
+target: fails
+<unk> just like <unk>
+is: 0.008343
+are: 0.003897
+target: are
+a file in the top drawer of the desk
+is: 0.001017
+are: 0.000911
+target: is
+everybody at the fourth of <unk> parade
+was: 0.000081
+were: 0.000036
+target: was
+the international <unk> as well as the <unk> society and the rowing <unk>
+needs: 0.000013
+need: 0.000004
+target: needs
+every person on the committee
+wants: 0.000555
+want: 0.000091
+target: wants
+about the assignment <unk> with its strict <unk> when
+is: 0.000568
+are: 0.000106
+target: is
+the taxi drivers on the streets of the cities
+drives: 0.000000
+drive: 0.000002
+target: drive
+the entire <unk> besides the <unk>
+is: 0.000470
+are: 0.000381
+target: is
+the presence at the ceiling in the room
+awaits: 0.000001
+<unk>: 0.002875
+target: awaits
+everyone with a cat and a dog
+rejects: 0.000000
+reject: 0.000000
+target: rejects
+the golf <unk> along with the student association and tennis <unk>
+has: 0.000160
+have: 0.000436
+target: has
+every candidate at the association
+contributes: 0.000001
+contribute: 0.000000
+target: contributes
+the waiter at the restaurant one street away
+has: 0.000037
+have: 0.000063
+target: has
+the whole <unk> except some <unk>
+wants: 0.000008
+want: 0.000018
+target: wants
+global <unk> together with <unk>
+is: 0.000257
+are: 0.000117
+target: is
+production <unk> together with <unk> and other <unk>
+needs: 0.000097
+need: 0.000009
+target: need
+those <unk> along with some other locals with <unk>
+has: 0.000037
+have: 0.000133
+target: have
+<unk> <unk> a <unk> of <unk> <unk> but then <unk>
+makes: 0.000134
+make: 0.000125
+target: makes
+the <unk> full of surprises and evil <unk>
+fills: 0.000000
+fill: 0.000005
+target: fills
+contracts with companies and clubs
+is: 0.000047
+are: 0.000191
+target: are
+documentaries full of sad stories and conflicts
+educates: 0.000001
+educate: 0.000000
+target: educate
+<unk> as well as parents and <unk>
+helps: 0.000003
+help: 0.000036
+target: help
+prevention of <unk> a paramount <unk>
+is: 0.001533
+are: 0.000132
+target: is
+division of <unk> normally through the <unk>
+prevents: 0.000003
+prevent: 0.000003
+target: prevents
+inclusion of your curriculum <unk> and photo
+is: 0.002243
+are: 0.000891
+target: is
+discussions amongst students with creative minds
+influences: 0.000000
+influence: 0.000002
+target: influence
+gatherings like that of card game clubs and that of <unk>
+is: 0.002775
+are: 0.002327
+target: are
+conflicts in <unk> amongst different nationalities
+occurs: 0.000006
+occur: 0.000022
+target: occur
+<unk> like in <unk> and regular shows
+is: 0.000281
+are: 0.000187
+target: are
+multiplication of a variable in some code
+is: 0.003525
+are: 0.000811
+target: is
+calculations within the groups at the universities
+shows: 0.000002
+show: 0.000011
+target: show
+civics
+is: 0.025189
+are: 0.000075
+target: is
+mathematics
+is: 0.027131
+are: 0.001349
+target: is
+for four miles every day he
+runs: 0.001250
+run: 0.000116
+target: runs
+a number of customers
+has: 0.000547
+have: 0.008991
+target: have
+one of my sisters
+is: 0.003387
+are: 0.000219
+target: is
+one of the nails
+is: 0.001230
+are: 0.000229
+target: is
+the scissors on the table
+is: 0.003607
+are: 0.001152
+target: are
+a large number of voters still
+votes: 0.000004
+vote: 0.000093
+target: votes
+to an <unk> the economics of this country
+seems: 0.000082
+seem: 0.000005
+target: seem
+the man with all the birds
+lives: 0.000002
+live: 0.000027
+target: lives
+the <unk> with all the <unk>
+takes: 0.000005
+take: 0.000015
+target: takes
+all of the <unk> even the scratched <unk>
+is: 0.006413
+are: 0.007649
+target: are
+the <unk> along with the <unk>
+is: 0.000677
+are: 0.000365
+target: is
+each of the girl scouts
+does: 0.000120
+do: 0.000309
+target: does
+one of my best friends
+is: 0.008795
+are: 0.000760
+target: is
+the <unk> as well as the <unk>
+wants: 0.000018
+want: 0.000016
+target: want
+someone at the <unk>
+<unk>: 0.132695
+groom: 0.000002
+target: <unk>
+food between the teeth
+results: 0.000000
+result: 0.000000
+target: results
+water in the fuel lines
+causes: 0.000007
+cause: 0.000004
+target: causes
+high levels of mercury
+occurs: 0.000006
+occur: 0.000020
+target: occur
+the price of five dollars
+is: 0.001071
+are: 0.000064
+target: is
+the news of money market <unk>
+was: 0.000963
+were: 0.000419
+target: was
+every one of his proposals
+was: 0.001659
+were: 0.000180
+target: was
+each of the proposals
+shows: 0.000036
+show: 0.000042
+target: shows
+neither of the printers
+was: 0.000351
+were: 0.006771
+target: was
+so many kinds of printer models for sale
+is: 0.000536
+are: 0.001655
+target: are
+each of the word processing specialists
+has: 0.000991
+have: 0.002653
+target: has
+either of the two <unk>
+meets: 0.000005
+meet: 0.000017
+target: meets
+one of the ways
+is: 0.000997
+are: 0.000030
+target: is
+computer programmers such as those at <unk>
+is: 0.000584
+are: 0.001920
+target: are
+the <unk> that were just in the <unk>
+is: 0.000287
+are: 0.002103
+target: are
+one of the players
+is: 0.001300
+are: 0.000154
+target: is
+the basket filled with <unk>
+is: 0.000533
+are: 0.000299
+target: is
+six gallons of milk
+is: 0.003658
+are: 0.000694
+target: are
+everyone but the manager and two <unk>
+thinks: 0.000021
+think: 0.000026
+target: thinks
+every one of those books
+is: 0.019650
+are: 0.001026
+target: is
+<unk> the only one of those <unk>
+has: 0.000377
+have: 0.000287
+target: has
+everyone except the employees in the shipping department
+has: 0.000276
+have: 0.001864
+target: has
+only one of the <unk> <unk>
+was: 0.001018
+were: 0.000453
+target: was
+a long list of <unk> names and addresses
+has: 0.000009
+have: 0.000089
+target: has
+neither the buyers nor the agent
+is: 0.001183
+are: 0.000107
+target: is
+the <unk> along with several customer support representatives and other field <unk>
+was: 0.000079
+were: 0.000523
+target: was
+all the family <unk> as well as clothing and other family <unk>
+was: 0.000175
+were: 0.000513
+target: were
+the people working with computers and <unk>
+is: 0.000302
+are: 0.001296
+target: are
+many children that were playing with the clown and the balloons
+is: 0.000182
+are: 0.000993
+target: are
+the painters <unk> around that painting and that statue
+is: 0.075771
+are: 0.003118
+target: are
+the crowd that demonstrates against the president and the <unk>
+is: 0.001045
+are: 0.000817
+target: is
+the leaves of the trees in the forest
+is: 0.001907
+are: 0.006553
+target: are
+the bushes on your lawn and above your home
+is: 0.005454
+are: 0.001532
+target: are
+your <unk> <unk> consisting of bacon and <unk>
+is: 0.000437
+are: 0.001465
+target: is
+back in the old <unk> players like my father and uncle
+was: 0.002457
+were: 0.001835
+target: were
+every rock on the beach and in the pools
+is: 0.000727
+are: 0.003026
+target: is
+<unk> the only one of the <unk>
+is: 0.000889
+are: 0.000352
+target: is
+everyone except the workers of the <unk>
+works: 0.000028
+work: 0.000165
+target: work
+three million leagues under the sky and sea
+is: 0.012047
+are: 0.000111
+target: is
+very few of the workers in the department
+receives: 0.000023
+receive: 0.000025
+target: receive
+only one of the monkeys in the zoo
+plays: 0.000014
+play: 0.000025
+target: plays
+an item of clothing from those stores
+sells: 0.000001
+sell: 0.000001
+target: sells
+the <unk> along with her puppies and the <unk>
+begs: 0.000001
+beg: 0.000002
+target: begs
+the movie with the actor from star wars
+has: 0.000095
+have: 0.000287
+target: has
+thousand anonymous people across ten countries in our continent
+has: 0.000086
+have: 0.000124
+target: have
+one person in the crowd of people
+walks: 0.000197
+walk: 0.000012
+target: walks
+the batch of pills from the hospital
+was: 0.000375
+were: 0.000608
+target: was
+one <unk> straight out of the school with all the <unk>
+tries: 0.000002
+try: 0.000002
+target: tries
+0.6867469879518072

@@ -1,0 +1,121 @@
+everyone but the manager and two <unk> 
+thinks: 0.000021
+think: 0.000026
+target: thinks
+every one of those books 
+is: 0.019650
+are: 0.001026
+target: is
+<unk> the only one of those <unk> 
+has: 0.000377
+have: 0.000287
+target: has
+everyone except the employees in the shipping department 
+has: 0.000276
+have: 0.001864
+target: has
+only one of the <unk> <unk> 
+was: 0.001018
+were: 0.000453
+target: was
+a long list of <unk> names and addresses 
+has: 0.000009
+have: 0.000089
+target: has
+neither the buyers nor the agent 
+is: 0.001183
+are: 0.000107
+target: is
+the <unk> along with several customer support representatives and other field <unk> 
+was: 0.000079
+were: 0.000523
+target: was
+all the family <unk> as well as clothing and other family <unk> 
+was: 0.000175
+were: 0.000513
+target: were
+the people working with computers and <unk> 
+is: 0.000302
+are: 0.001296
+target: are
+many children that were playing with the clown and the balloons 
+is: 0.000182
+are: 0.000993
+target: are
+the painters <unk> around that painting and that statue 
+is: 0.075771
+are: 0.003118
+target: are
+the crowd that demonstrates against the president and the <unk> 
+is: 0.001045
+are: 0.000817
+target: is
+the leaves of the trees in the forest 
+is: 0.001907
+are: 0.006553
+target: are
+the bushes on your lawn and above your home 
+is: 0.005454
+are: 0.001532
+target: are
+your <unk> <unk> consisting of bacon and <unk> 
+is: 0.000437
+are: 0.001465
+target: is
+back in the old <unk> players like my father and uncle 
+was: 0.002457
+were: 0.001835
+target: were
+every rock on the beach and in the pools 
+is: 0.000727
+are: 0.003026
+target: is
+<unk> the only one of the <unk> 
+is: 0.000889
+are: 0.000352
+target: is
+everyone except the workers of the <unk> 
+works: 0.000028
+work: 0.000165
+target: work
+three million leagues under the sky and sea 
+is: 0.012047
+are: 0.000111
+target: is
+very few of the workers in the department 
+receives: 0.000023
+receive: 0.000025
+target: receive
+only one of the monkeys in the zoo 
+plays: 0.000014
+play: 0.000025
+target: plays
+an item of clothing from those stores 
+sells: 0.000001
+sell: 0.000001
+target: sells
+the <unk> along with her puppies and the <unk> 
+begs: 0.000001
+beg: 0.000002
+target: begs
+the movie with the actor from star wars 
+has: 0.000095
+have: 0.000287
+target: has
+thousand anonymous people across ten countries in our continent 
+has: 0.000086
+have: 0.000124
+target: have
+one person in the crowd of people 
+walks: 0.000197
+walk: 0.000012
+target: walks
+the batch of pills from the hospital 
+was: 0.000375
+were: 0.000608
+target: was
+one <unk> straight out of the school with all the <unk> 
+tries: 0.000002
+try: 0.000002
+target: tries
+0.5333333333333333
