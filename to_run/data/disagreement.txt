@@ -28,7 +28,7 @@ Computer programmers such as those at Microsoft;is/are;are
 The horses from the race;is/are;are
 One of the players;is/are;is
 The basket with soaps;is/are;is
-Six gallons of milk;is/are;are
+Six gallons of milk;is/are;is
 2
 Everyone but the manager and two supervisors;thinks/think;thinks
 Every one of those books;is/are;is
