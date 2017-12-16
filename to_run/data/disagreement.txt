@@ -2,48 +2,48 @@
 Civics;is/are;is
 Mathematics;is/are;is
 For four miles every day he;runs/run;runs
-A number of customers;have/has;have
+A number of customers;has/have;have
 1
 One of my sisters;is/are;is
 One of the nails;is/are;is
-The scissors on the table;are/is;are
+The scissors on the table;is/are;are
 A large number of voters still;votes/vote;votes
 To an outsider, the economics of this country;seems/seem;seem
-The man with all the birds;live/lives;lives
-The movie, with all the previews,;take/takes;takes
+The man with all the birds;lives/live;lives
+The movie, with all the previews,;takes/take;takes
 All of the CDs, even the scratched one,;is/are;are
 The politician, along with the newsmen,;is/are;is
 Each of the Girl Scouts;does/do;does
 One of my best friends;is/are;is
-The players, as well as the captain,;want/wants;want
+The players, as well as the captain,;wants/want;want
 Someone at the stables;grooms/groom;grooms
 Food between the teeth;results/result;results
 Water in the fuel lines;causes/cause;causes
-High levels of mercury;occur/occurs;occur
-the price of Five dollars;are/is;is
+High levels of mercury;occurs/occur;occur
+the price of Five dollars;is/are;is
 The news of money market dividends;was/were;was
 Every one of his proposals;was/were;was
-Each of the proposals;show/shows;shows
+Each of the proposals;shows/show;shows
 Neither of the printers;was/were;was
-So many kinds of printer models for sale;are/is;are
-Each of the word processing specialists;have/has;has
-Either of the two selections;meet/meets;meets
-One of the ways;are/is;is
+So many kinds of printer models for sale;is/are;are
+Each of the word processing specialists;has/have;has
+Either of the two selections;meets/meet;meets
+One of the ways;is/are;is
 Computer programmers such as those at Microsoft;is/are;are
 The horses, that were just in the race,;is/are;are
 One of the players;is/are;is
 The basket filled with soaps;is/are;is
-Six gallons of milk;are/is;are
+Six gallons of milk;is/are;are
 2
 Everyone but the manager and two supervisors;thinks/think;thinks
 Every one of those books;is/are;is
 Carlos, the only one of those students,;has/have;has
 Everyone except the employees in the Shipping Department;has/have;has
 Only one of the union's grievances;was/were;was
-A long list of customers' names and addresses;have/has;has
+A long list of customers' names and addresses;has/have;has
 Neither the buyers nor the agent;is/are;is
-The engineer, along with several customer support representatives and other field personnel,;were/was;was
-All the family photos, as well as clothing and other family possessions,;were/was;were
+The engineer, along with several customer support representatives and other field personnel,;was/were;was
+All the family photos, as well as clothing and other family possessions,;was/were;were
 The people working with computers and SAP;is/are;are
 Many children that were playing with the clown and the balloons;is/are;are
 The painters crowding around that painting and that statue;is/are;are
@@ -54,14 +54,14 @@ Your favourite breakfast, consisting of bacon and eggs,;is/are;is
 Back in the old days, players like my father and uncle;was/were;were
 Every rock on the beach and in the pools;is/are;is
 Henk, the only one of the actors,;is/are;is
-Everyone except the workers of the MacDonalds;work/works;work
+Everyone except the workers of the MacDonalds;works/work;work
 Three million leagues under the sky and sea;is/are;is
-Very few of the workers in the department;receive/receives;receive
-Only one of the monkeys in the zoo;play/plays;plays
-An item of clothing from those stores;sell/sells;sells
-The dog, along with her puppies and the cat,;beg/begs;begs
-The movie with the actor from Star Wars;have/has;has
-Thousand anonymous people across ten countries in our continent;have/has;have
-One person in the crowd of people;walk/walks;walks
+Very few of the workers in the department;receives/receive;receive
+Only one of the monkeys in the zoo;plays/play;plays
+An item of clothing from those stores;sells/sell;sells
+The dog, along with her puppies and the cat,;begs/beg;begs
+The movie with the actor from Star Wars;has/have;has
+Thousand anonymous people across ten countries in our continent;has/have;have
+One person in the crowd of people;walks/walk;walks
 The batch of pills from the hospital;was/were;was
-One person, straight out of the school with all the teachers,;try/tries;tries
+One person, straight out of the school with all the teachers,;tries/try;tries
