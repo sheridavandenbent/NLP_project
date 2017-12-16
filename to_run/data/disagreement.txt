@@ -1,8 +1,3 @@
-0
-Civics;is/are;is
-Mathematics;is/are;is
-For four miles every day he;runs/run;runs
-A number of customers;has/have;have
 1
 One of my sisters;is/are;is
 One of the nails;is/are;is

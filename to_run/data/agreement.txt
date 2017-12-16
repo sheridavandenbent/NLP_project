@@ -1,4 +1,8 @@
 0
+Civics;is/are;is
+Mathematics;is/are;is
+For four miles every day he;runs/run;runs
+A number of customers;has/have;have
 Either answer;is/are;is
 Few of the children;is/are;are
 Some of the money;is/are;is
