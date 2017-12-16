@@ -115,12 +115,17 @@ if __name__ == '__main__':
                 disagreement[cur_val].append({"sentence":word_tokens, "test":test_tokens, "target":target_token})
 
     total = []
+    agreement_total = []
+    disagreement_total = []
     for val in agreement:
         for line in agreement[val]:
             total.append(line)
+            agreement_total.append(line)
 
     for val in disagreement:
         for line in disagreement[val]:
             total.append(line)
+            disagreement_total.append(line)
 
-    evaluate(model, dictionary, total)
+
+    evaluate(model, dictionary, disagreement["0"])
