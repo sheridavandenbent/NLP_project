@@ -7,30 +7,27 @@ import torch.nn as nn
 from torch.autograd import Variable
 import pickle
 import os
+import sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--seed', type=int, default=1111, help='random seed')
 parser.add_argument('--model', type=str,  default='model.pt', help='model to use')
 parser.add_argument('--dict', type=str,  default='dict', help='word map to use')
 parser.add_argument('--bptt', type=int, default=60, help='sequence length')
+parser.add_argument('--agreement', type=str, help='location of the test data')
+parser.add_argument('--disagreement', type=str, help='location of the test data')
 args = parser.parse_args()
 
 # function to transform sentence into word id's and put them in a
 # pytorch Variable
 # NB Assumes the sentence is already tokenised!
-def tokenise(sentence, dictionary):
-    words = sentence.split(' ')
-    l = len(words)
-    assert l <= args.bptt, "sentence too long"
+def tokenise_words(words, dictionary):
+    ids = torch.LongTensor(len(words))
     token = 0
-    ids = torch.LongTensor(l)
-
     for word in words:
         try:
             ids[token] = dictionary.word2idx[word]
         except KeyError:
-            print ("%s unknown, replace by <unk>" % word)
-            raw_input()
             ids[token] = dictionary.word2idx['<unk>']
         token += 1
     return ids
@@ -38,38 +35,85 @@ def tokenise(sentence, dictionary):
 # softmax function
 softmax = nn.Softmax()
 
-def evaluate(model, dictionary, sentence):
+def tensor_to_sentence(tensor, dictionary):
+    sentence = ""
+    for data in tensor:
+        sentence += dictionary.idx2word[data]+" "
+    return sentence
+
+
+def evaluate(model, dictionary, data):
     # Turn on evaluation mode which disables dropout.
     model.eval()
     ntokens = dictionary.ntokens()
-    hidden = model.init_hidden(1)
+    correct = 0
+    total = len(data)
 
-    test_data = tokenise(test_sentence, dictionary)
-    input_data = Variable(test_data, volatile=False)
 
-    output, hidden = model(input_data, hidden)
-    output_flat = output.view(-1, ntokens)
-    logit = output[-1, :]
-    sm = softmax(logit).view(ntokens)
+    for line in data:
+        hidden = model.init_hidden(1)
 
-    def get_prob(word):
-        return sm[dictionary.word2idx[word]].data[0]
+        input_data = Variable(line["sentence"], volatile=False)
+        test_data = line["test"]
+        target_data = line["target"]
 
-    print ('\n'.join(
-            ['%s: %f' % (word, get_prob(word)) for word in check_words]
-            ))
+        output, hidden = model(input_data, hidden)
+        output_flat = output.view(-1, ntokens)
+        logit = output[-1, :]
+        sm = softmax(logit).view(ntokens)
 
+        output_winner = test_data[0]
+        output_prob = sm[test_data[0]].data[0]
+        if sm[test_data[1]].data[0] > output_prob:
+            output_winner = test_data[1]
+            output_prob = sm[test_data[1]].data[0]
+
+        if output_winner == target_data[0]:
+            correct += 1
+
+        print(tensor_to_sentence(line["sentence"], dictionary))
+
+        print('%s: %f' % (dictionary.idx2word[test_data[0]], sm[test_data[0]].data[0]))
+        print('%s: %f' % (dictionary.idx2word[test_data[1]], sm[test_data[1]].data[0]))
+
+    print(correct/total)
     return
 
 if __name__ == '__main__':
     # test sentence and words to check
-    test_sentence = 'this is a sentence with seven'
-    check_words = ['words', 'characters', 'Thursday', 'days', 'walk']
-    print (test_sentence, '\n')
-
     # Load dictionary with word ids, load model
     dictionary = pickle.load(open(args.dict, 'rb'), encoding='latin1')
     with open(args.model, 'rb') as f:
         model = torch.load(f, map_location=lambda storage, loc: storage)
 
-    evaluate(model, dictionary, test_sentence)
+    agreement = dict()
+    with open(args.agreement, 'r') as f:
+        cur_val = 0
+        for line in f:
+            if line[0].isdigit():
+                agreement[line[0]] = []
+                cur_val = line[0]
+            else:
+                chunks = line.split(';')
+                word_tokens = tokenise_words(chunks[0].lower().split(), dictionary)
+                test_tokens = tokenise_words(chunks[1].lower().split('/'), dictionary)
+                target_token = tokenise_words(chunks[2].lower().split(), dictionary)
+                agreement[cur_val].append({"sentence":word_tokens, "test":test_tokens, "target":target_token})
+
+    disagreement = dict()
+    with open(args.disagreement, 'r') as f:
+        cur_val = 0
+        for line in f:
+            if line[0].isdigit():
+                disagreement[line[0]] = []
+                cur_val = line[0]
+            else:
+                chunks = line.split(';')
+                word_tokens = tokenise_words(chunks[0].lower().split(), dictionary)
+                test_tokens = tokenise_words(chunks[1].lower().split('/'), dictionary)
+                target_token = tokenise_words(chunks[2].lower().split(), dictionary)
+                disagreement[cur_val].append({"sentence":word_tokens, "test":test_tokens, "target":target_token})
+
+
+
+    evaluate(model, dictionary, agreement["0"])
