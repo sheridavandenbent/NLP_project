@@ -114,6 +114,13 @@ if __name__ == '__main__':
                 target_token = tokenise_words(chunks[2].lower().split(), dictionary)
                 disagreement[cur_val].append({"sentence":word_tokens, "test":test_tokens, "target":target_token})
 
+    total = []
+    for val in agreement:
+        for line in agreement[val]:
+            total.append(line)
 
+    for val in disagreement:
+        for line in disagreement[val]:
+            total.append(line)
 
-    evaluate(model, dictionary, agreement["0"])
+    evaluate(model, dictionary, total)
