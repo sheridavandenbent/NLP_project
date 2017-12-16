@@ -1,0 +1,213 @@
+arguing with each other about the assignment deadline 
+is: 0.000029
+are: 0.000018
+target: is
+neither the director nor the producer 
+is: 0.000082
+are: 0.000020
+target: is
+either the <unk> assistant or the architect himself 
+is: 0.008140
+are: 0.000097
+target: is
+either frank or <unk> 
+drives: 0.000006
+drive: 0.000010
+target: drives
+rice and <unk> my favorite <unk> 
+remind: 0.000002
+reminds: 0.000005
+target: remind
+<unk> and her brothers 
+is: 0.000157
+are: 0.005432
+target: are
+either my mother or my father 
+is: 0.023617
+are: 0.005483
+target: is
+the dog or the cats 
+is: 0.000408
+are: 0.003189
+target: are
+either my shoes or your coat 
+is: 0.000396
+are: 0.000188
+target: is
+<unk> and <unk> 
+<unk>: 0.083817
+<unk>: 0.083817
+target: <unk>
+eight dollars 
+is: 0.000862
+are: 0.000186
+target: is
+<unk> or three girls 
+walk: 0.000611
+walks: 0.000016
+target: walk
+neither the tray nor the <unk> 
+were: 0.000177
+was: 0.000058
+target: were
+<unk> is the only one of those students who 
+has: 0.034684
+have: 0.024203
+target: has
+not only the students but also their instructor 
+have: 0.000073
+has: 0.000187
+target: has
+the students and instructors each 
+hope: 0.000002
+hopes: 0.000007
+target: hopes
+politics 
+are: 0.000832
+is: 0.009563
+target: are
+your hands and feet 
+contains: 0.000004
+contain: 0.000015
+target: contain
+<unk> or a flute 
+creates: 0.000000
+create: 0.000001
+target: create
+neither the lion <unk> nor the <unk> 
+is: 0.000661
+are: 0.000372
+target: are
+either string beans or broccoli 
+is: 0.000040
+are: 0.000097
+target: is
+rain or <unk> 
+is: 0.000683
+are: 0.000216
+target: is
+the books and the magazine 
+was: 0.000379
+were: 0.000434
+target: were
+<unk> and <unk> 
+is: 0.001134
+are: 0.003791
+target: are
+gold coins and silver bars 
+was: 0.000107
+were: 0.000632
+target: were
+my mother and my sister 
+<unk>: 0.013527
+<unk>: 0.013527
+target: <unk>
+<unk> and her friends 
+is: 0.001000
+are: 0.017517
+target: are
+two hundred yards 
+is: 0.000092
+are: 0.000014
+target: is
+the gift he gave his friend 
+was: 0.007599
+were: 0.000073
+target: was
+dogs and cats 
+love: 0.000092
+loves: 0.000003
+target: love
+cream cheese and tomato 
+are: 0.000001
+is: 0.000010
+target: are
+bacon and eggs 
+are: 0.000915
+is: 0.000060
+target: is
+<unk> beef and <unk> 
+is: 0.001796
+are: 0.001748
+target: are
+the creator and champion of the sport 
+is: 0.004179
+are: 0.000579
+target: is
+the cause and solution to our problems 
+is: 0.002971
+are: 0.001856
+target: is
+either <unk> or his cousins 
+are: 0.002168
+is: 0.001222
+target: is
+either my aunts or my mother 
+is: 0.015325
+are: 0.022375
+target: is
+the majority of our city council members 
+are: 0.036704
+is: 0.002265
+target: are
+the majority always 
+rules: 0.000014
+rule: 0.000082
+target: rules
+my aunt or my uncle 
+is: 0.008365
+are: 0.003812
+target: is
+neither <unk> nor <unk> 
+is: 0.000634
+are: 0.000398
+target: is
+either <unk> or <unk> 
+is: 0.000672
+are: 0.000494
+target: is
+neither the plates nor the serving bowl 
+goes: 0.000003
+go: 0.000034
+target: goes
+neither the serving bowl nor the plate 
+go: 0.000113
+goes: 0.000040
+target: go
+a car and a bike 
+is: 0.006962
+are: 0.000239
+target: are
+breaking and entering 
+is: 0.000257
+are: 0.000037
+target: is
+the bed and breakfast 
+was: 0.000936
+were: 0.000330
+target: was
+the merchandise that you ordered 
+are: 0.000369
+is: 0.000566
+target: is
+the <unk> <unk> visiting from <unk> 
+are: 0.000127
+is: 0.000305
+target: is
+the accuracy of the report and its thorough research 
+is: 0.000546
+are: 0.000049
+target: are
+more editing and <unk> 
+is: 0.000709
+are: 0.000879
+target: is
+decentralization and <unk> 
+has: 0.000064
+have: 0.000531
+target: have
+the newspaper and magazine for your mother 
+is: 0.001122
+are: 0.000114
+target: are
+0.6981132075471698

@@ -14,9 +14,9 @@ several of the field hockey players also
 belongs: 0.000005
 belong: 0.000329
 target: belong
-four years 
-is: 0.000176
-are: 0.000042
+four years full of problems 
+is: 0.000637
+are: 0.001075
 target: are
 the whole family 
 is: 0.026012
@@ -118,4 +118,4 @@ target: fails
 is: 0.008343
 are: 0.003897
 target: are
-0.6666666666666666
+0.7

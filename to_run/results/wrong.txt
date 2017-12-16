@@ -22,10 +22,6 @@ the prime <unk> together with his <unk>
 greets: 0.000003
 greet: 0.000003
 target: greets
-four years 
-is: 0.000176
-are: 0.000042
-target: are
 everyone except <unk> 
 finds: 0.000008
 find: 0.000023
@@ -146,10 +142,6 @@ either of the two <unk>
 meets: 0.000005
 meet: 0.000017
 target: meets
-six gallons of milk 
-is: 0.003658
-are: 0.000694
-target: are
 everyone but the manager and two <unk> 
 thinks: 0.000021
 think: 0.000026
@@ -166,17 +158,21 @@ the <unk> along with several customer support representatives and other field <u
 was: 0.000079
 were: 0.000523
 target: was
-the painters <unk> around that painting and that statue 
-is: 0.075771
-are: 0.003118
+the painters around that painting and that statue 
+is: 0.043590
+are: 0.005289
 target: are
+the crowd against the president and the <unk> 
+is: 0.001128
+are: 0.001448
+target: is
 the bushes on your lawn and above your home 
 is: 0.005454
 are: 0.001532
 target: are
-your <unk> <unk> consisting of bacon and <unk> 
-is: 0.000437
-are: 0.001465
+your favorite <unk> bacon and <unk> 
+is: 0.002333
+are: 0.002566
 target: is
 back in the old <unk> players like my father and uncle 
 was: 0.002457
@@ -206,3 +202,68 @@ one <unk> straight out of the school with all the <unk>
 tries: 0.000002
 try: 0.000002
 target: tries
+either frank or <unk> 
+drives: 0.000006
+drive: 0.000010
+target: drives
+rice and <unk> my favorite <unk> 
+remind: 0.000002
+reminds: 0.000005
+target: remind
+politics 
+are: 0.000832
+is: 0.009563
+target: are
+neither the lion <unk> nor the <unk> 
+is: 0.000661
+are: 0.000372
+target: are
+either string beans or broccoli 
+is: 0.000040
+are: 0.000097
+target: is
+cream cheese and tomato 
+are: 0.000001
+is: 0.000010
+target: are
+bacon and eggs 
+are: 0.000915
+is: 0.000060
+target: is
+<unk> beef and <unk> 
+is: 0.001796
+are: 0.001748
+target: are
+either <unk> or his cousins 
+are: 0.002168
+is: 0.001222
+target: is
+either my aunts or my mother 
+is: 0.015325
+are: 0.022375
+target: is
+the majority always 
+rules: 0.000014
+rule: 0.000082
+target: rules
+neither the plates nor the serving bowl 
+goes: 0.000003
+go: 0.000034
+target: goes
+a car and a bike 
+is: 0.006962
+are: 0.000239
+target: are
+the accuracy of the report and its thorough research 
+is: 0.000546
+are: 0.000049
+target: are
+more editing and <unk> 
+is: 0.000709
+are: 0.000879
+target: is
+the newspaper and magazine for your mother 
+is: 0.001122
+are: 0.000114
+target: are
+0.6940639269406392

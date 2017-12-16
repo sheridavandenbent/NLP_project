@@ -34,21 +34,21 @@ all the family <unk> as well as clothing and other family <unk>
 was: 0.000175
 were: 0.000513
 target: were
-the people working with computers and <unk> 
-is: 0.000302
-are: 0.001296
+the people in the field of computers 
+is: 0.001068
+are: 0.003965
 target: are
-many children that were playing with the clown and the balloons 
-is: 0.000182
-are: 0.000993
+many children with the clown and the balloons 
+is: 0.000659
+are: 0.003397
 target: are
-the painters <unk> around that painting and that statue 
-is: 0.075771
-are: 0.003118
+the painters around that painting and that statue 
+is: 0.043590
+are: 0.005289
 target: are
-the crowd that demonstrates against the president and the <unk> 
-is: 0.001045
-are: 0.000817
+the crowd against the president and the <unk> 
+is: 0.001128
+are: 0.001448
 target: is
 the leaves of the trees in the forest 
 is: 0.001907
@@ -58,9 +58,9 @@ the bushes on your lawn and above your home
 is: 0.005454
 are: 0.001532
 target: are
-your <unk> <unk> consisting of bacon and <unk> 
-is: 0.000437
-are: 0.001465
+your favorite <unk> bacon and <unk> 
+is: 0.002333
+are: 0.002566
 target: is
 back in the old <unk> players like my father and uncle 
 was: 0.002457
@@ -118,4 +118,4 @@ one <unk> straight out of the school with all the <unk>
 tries: 0.000002
 try: 0.000002
 target: tries
-0.5333333333333333
+0.5

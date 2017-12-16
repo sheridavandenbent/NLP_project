@@ -102,20 +102,20 @@ computer programmers such as those at <unk>
 is: 0.000584
 are: 0.001920
 target: are
-the <unk> that were just in the <unk> 
-is: 0.000287
-are: 0.002103
+the horses from the race 
+is: 0.001257
+are: 0.014437
 target: are
 one of the players 
 is: 0.001300
 are: 0.000154
 target: is
-the basket filled with <unk> 
-is: 0.000533
-are: 0.000299
+the basket with <unk> 
+is: 0.003128
+are: 0.000268
 target: is
 six gallons of milk 
 is: 0.003658
 are: 0.000694
-target: are
-0.5666666666666667
+target: is
+0.6

@@ -1,3 +1,19 @@
+civics 
+is: 0.025189
+are: 0.000075
+target: is
+mathematics 
+is: 0.027131
+are: 0.001349
+target: is
+for four miles every day he 
+runs: 0.001250
+run: 0.000116
+target: runs
+a number of customers 
+has: 0.000547
+have: 0.008991
+target: have
 either answer 
 is: 0.002065
 are: 0.000199
@@ -182,9 +198,9 @@ several of the field hockey players also
 belongs: 0.000005
 belong: 0.000329
 target: belong
-four years 
-is: 0.000176
-are: 0.000042
+four years full of problems 
+is: 0.000637
+are: 0.001075
 target: are
 the whole family 
 is: 0.026012
@@ -406,4 +422,4 @@ calculations within the groups at the universities
 shows: 0.000002
 show: 0.000011
 target: show
-0.7549019607843137
+0.7735849056603774
