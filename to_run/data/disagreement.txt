@@ -30,9 +30,9 @@ Each of the word processing specialists;has/have;has
 Either of the two selections;meets/meet;meets
 One of the ways;is/are;is
 Computer programmers such as those at Microsoft;is/are;are
-The horses, that were just in the race,;is/are;are
+The horses from the race;is/are;are
 One of the players;is/are;is
-The basket filled with soaps;is/are;is
+The basket with soaps;is/are;is
 Six gallons of milk;is/are;are
 2
 Everyone but the manager and two supervisors;thinks/think;thinks
@@ -44,13 +44,13 @@ A long list of customers' names and addresses;has/have;has
 Neither the buyers nor the agent;is/are;is
 The engineer, along with several customer support representatives and other field personnel,;was/were;was
 All the family photos, as well as clothing and other family possessions,;was/were;were
-The people working with computers and SAP;is/are;are
-Many children that were playing with the clown and the balloons;is/are;are
-The painters crowding around that painting and that statue;is/are;are
-The crowd that demonstrates against the president and the congressmen;is/are;is
+The people in the field of computers;is/are;are
+Many children with the clown and the balloons;is/are;are
+The painters around that painting and that statue;is/are;are
+The crowd against the president and the congressmen;is/are;is
 The leaves of the trees in the forest;is/are;are
 The bushes on your lawn and above your home;is/are;are
-Your favourite breakfast, consisting of bacon and eggs,;is/are;is
+Your favourite breakfast, bacon and eggs,;is/are;is
 Back in the old days, players like my father and uncle;was/were;were
 Every rock on the beach and in the pools;is/are;is
 Henk, the only one of the actors,;is/are;is
